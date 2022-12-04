@@ -15,6 +15,8 @@ Vue2、Vue3、Vitepress、React、Koa 等框架初始化项目、最小化测试
 
 - [TODO]()：Vue3+ TS + Vue Router + Pinia + Scss + ESLint + Prettier
 
+- [vuepress-base](https://github.com/dev-zuo/node-api-base.git)：Vuepress base init
+
 ## 实用模版收集
 
 - [vitepress-base](https://github.com/dev-zuo/vitepress-base)：使用 vitepress 搭建官网，基础模版
