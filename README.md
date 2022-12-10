@@ -9,14 +9,14 @@ Vue2、Vue3、Vitepress、React、Koa 等框架初始化项目、最小化测试
 
 ## 初始化项目列表
 
-- [vue3-base](https://github.com/dev-zuo/vue3-base)：Vue3 + Vite + TypeScript + Vue Router + Pinia + Vitest + ESLint + Prettier
+- [vue3-base](https://github.com/zuoxiaobai/vue3-base)：Vue3 + Vite + TypeScript + Vue Router + Pinia + Vitest + ESLint + Prettier
 
-- [vue2-base](https://github.com/dev-zuo/vue2-base)：Vue2 + JS+Vue Router + Vuex + Scss + ESLint + Prettier
+- [vue2-base](https://github.com/zuoxiaobai/vue2-base)：Vue2 + JS+Vue Router + Vuex + Scss + ESLint + Prettier
 
 - [TODO]()：Vue3+ TS + Vue Router + Pinia + Scss + ESLint + Prettier
 
-- [vuepress-base](https://github.com/dev-zuo/node-api-base.git)：Vuepress base init
+- [vuepress-base](https://github.com/zuoxiaobai/node-api-base.git)：Vuepress base init
 
 ## 实用模版收集
 
-- [vitepress-base](https://github.com/dev-zuo/vitepress-base)：使用 vitepress 搭建官网，基础模版
+- [vitepress-base](https://github.com/zuoxiaobai/vitepress-base)：使用 vitepress 搭建官网，基础模版
